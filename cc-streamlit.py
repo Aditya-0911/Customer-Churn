@@ -1,7 +1,5 @@
 import streamlit as st
 import numpy as np
-import pickle 
-import joblib as jb
 import tensorflow as tf
 
 nav=st.sidebar.radio('Navigation Panel',['Home','About'])

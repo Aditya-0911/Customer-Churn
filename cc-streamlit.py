@@ -39,7 +39,7 @@ if nav=='Home':
     dp=deviceprotection.selectbox('Do they have device protection',options,format_func=lambda x: display[x])
     ts=techsupport.selectbox('Do they have tech support',options, format_func=lambda x: display[x])
     stm=streamingmovies.selectbox('Do you have streaming movies',options, format_func=lambda x: display[x])
-    tenure=st.number_input('What is their tenure')
+    tenure=st.slider('What is their tenure in months',0,500)
     monthlycharges=st.number_input('What is their monthly charges')
     totalcharges=st.number_input('What is their total charges')
     submit=st.button('Submit Details')

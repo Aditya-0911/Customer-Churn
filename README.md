@@ -64,7 +64,7 @@ The data is been preprocessed and has been encoded with help of sklearn library 
    
 ## Contents of repositary
 
--`mymodel3`: This is the folder which stores the variables of model 3 which has the highest accuracy
--`notebooks`: This folder contains `customer churn analysis.ipynb` which has all workings of the project
--`cc-streamlit.py`: This python file contains the front-end part of the project created using Streamlit
--`requirements.txt`: It contains all the necessary libraries and packages used int te project
+-`mymodel3`: This is the folder which stores the variables of model 3 which has the highest accuracy  
+-`notebooks`: This folder contains `customer churn analysis.ipynb` which has all workings of the project  
+-`cc-streamlit.py`: This python file contains the front-end part of the project created using Streamlit  
+-`requirements.txt`: It contains all the necessary libraries and packages used int te project  

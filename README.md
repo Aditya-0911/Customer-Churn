@@ -1,4 +1,6 @@
-[# Customer Churn Prediction](https://aditya-customer-churn-prediction.streamlit.app/)
+# Customer Churn Prediction
+
+[link to project's interface](https://aditya-customer-churn-prediction.streamlit.app/)
 
 <div align="center">
 <img src="screenshot.png" alt="Customer Churn Prediction">
